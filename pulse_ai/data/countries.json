@@ -1,0 +1,98 @@
+{
+  "Iceland": {
+    "name": "Iceland",
+    "profile": "Global Leader in Resilience",
+    "scores": {
+      "Telecommunications Connectivity": 92,
+      "Emergency Communications": 88,
+      "Digital Sovereignty": 75,
+      "Critical Services Continuity": 90,
+      "Cybersecurity": 85,
+      "Data Governance": 70,
+      "Inclusion and Accessibility": 95,
+      "AI and IoT Readiness": 65,
+      "Energy Resilience": 98,
+      "Interoperability": 80
+    }
+  },
+  "Singapore": {
+    "name": "Singapore",
+    "profile": "Tech Powerhouse & Efficiency Leader",
+    "scores": {
+      "Telecommunications Connectivity": 98,
+      "Emergency Communications": 95,
+      "Digital Sovereignty": 80,
+      "Critical Services Continuity": 95,
+      "Cybersecurity": 90,
+      "Data Governance": 88,
+      "Inclusion and Accessibility": 90,
+      "AI and IoT Readiness": 85,
+      "Energy Resilience": 80,
+      "Interoperability": 95
+    }
+  },
+  "USA": {
+    "name": "United States",
+    "profile": "AI Leader with Mixed Infrastructure",
+    "scores": {
+      "Telecommunications Connectivity": 85,
+      "Emergency Communications": 80,
+      "Digital Sovereignty": 85,
+      "Critical Services Continuity": 75,
+      "Cybersecurity": 80,
+      "Data Governance": 78,
+      "Inclusion and Accessibility": 75,
+      "AI and IoT Readiness": 92,
+      "Energy Resilience": 70,
+      "Interoperability": 82
+    }
+  },
+  "Mauritius": {
+    "name": "Mauritius",
+    "profile": "African Regional Leader",
+    "scores": {
+      "Telecommunications Connectivity": 72,
+      "Emergency Communications": 65,
+      "Digital Sovereignty": 55,
+      "Critical Services Continuity": 60,
+      "Cybersecurity": 60,
+      "Data Governance": 65,
+      "Inclusion and Accessibility": 70,
+      "AI and IoT Readiness": 50,
+      "Energy Resilience": 55,
+      "Interoperability": 62
+    }
+  },
+  "Rwanda": {
+    "name": "Rwanda",
+    "profile": "High-Growth Digital Hub",
+    "scores": {
+      "Telecommunications Connectivity": 60,
+      "Emergency Communications": 50,
+      "Digital Sovereignty": 65,
+      "Critical Services Continuity": 55,
+      "Cybersecurity": 55,
+      "Data Governance": 68,
+      "Inclusion and Accessibility": 55,
+      "AI and IoT Readiness": 45,
+      "Energy Resilience": 45,
+      "Interoperability": 58
+    }
+  },
+  "Central_African_Republic": {
+    "name": "Central African Republic",
+    "profile": "Low Resilience / High Risk",
+    "scores": {
+      "Telecommunications Connectivity": 30,
+      "Emergency Communications": 25,
+      "Digital Sovereignty": 20,
+      "Critical Services Continuity": 20,
+      "Cybersecurity": 15,
+      "Data Governance": 20,
+      "Inclusion and Accessibility": 30,
+      "AI and IoT Readiness": 10,
+      "Energy Resilience": 15,
+      "Interoperability": 20
+    }
+  }
+}

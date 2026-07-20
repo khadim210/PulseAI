@@ -1,0 +1,169 @@
+{
+  "countries": {
+    "Mauritius": {
+      "name": "Mauritius",
+      "profile": "Indian Ocean Digital Hub / High Resilience",
+      "baseline_scores": {
+        "Telecommunications Connectivity": 85,
+        "Emergency Communications": 80,
+        "Digital Sovereignty": 70,
+        "Critical Services Continuity": 82,
+        "Cybersecurity": 75,
+        "Data Governance": 78,
+        "Inclusion and Accessibility": 80,
+        "AI and IoT Readiness": 60,
+        "Energy Resilience": 75,
+        "Interoperability": 88
+      },
+      "landing_stations": [
+        {"name": "Port Louis Station", "coords": [-20.16, 57.50], "cables": ["SAFE", "LION"]}
+      ],
+      "regions": {
+        "Port_Louis_Urban": {
+          "center": [-20.16, 57.50],
+          "supports": {"fiber": 0.9, "cellular": 0.1, "satellite": 0.0},
+          "energy_backup": 0.8,
+          "local_modifier": 1.1
+        },
+        "Rural_East": {
+          "center": [-20.3, 57.7],
+          "supports": {"fiber": 0.3, "cellular": 0.5, "satellite": 0.2},
+          "energy_backup": 0.5,
+          "local_modifier": 0.8
+        }
+      }
+    },
+    "Rwanda": {
+      "name": "Rwanda",
+      "profile": "Inland Digital Transformation Leader",
+      "baseline_scores": {
+        "Telecommunications Connectivity": 65,
+        "Emergency Communications": 55,
+        "Digital Sovereignty": 60,
+        "Critical Services Continuity": 60,
+        "Cybersecurity": 60,
+        "Data Governance": 70,
+        "Inclusion and Accessibility": 60,
+        "AI and IoT Readiness": 55,
+        "Energy Resilience": 50,
+        "Interoperability": 65
+      },
+      "landing_stations": [
+        {"name": "Mombasa-Kigali Gateway", "coords": [-1.94, 30.06], "cables": ["EASSy"]}
+      ],
+      "regions": {
+        "Kigali_City": {
+          "center": [-1.94, 30.06],
+          "supports": {"fiber": 0.7, "cellular": 0.2, "satellite": 0.1},
+          "energy_backup": 0.7,
+          "local_modifier": 1.0
+        },
+        "Western_Highlands": {
+          "center": [-2.5, 29.0],
+          "supports": {"fiber": 0.1, "cellular": 0.6, "satellite": 0.3},
+          "energy_backup": 0.4,
+          "local_modifier": 0.7
+        }
+      }
+    },
+    "Nigeria": {
+      "name": "Nigeria",
+      "profile": "West African Tech Giant / Mixed Resilience",
+      "baseline_scores": {
+        "Telecommunications Connectivity": 70,
+        "Emergency Communications": 50,
+        "Digital Sovereignty": 55,
+        "Critical Services Continuity": 50,
+        "Cybersecurity": 60,
+        "Data Governance": 50,
+        "Inclusion and Accessibility": 60,
+        "AI and IoT Readiness": 70,
+        "Energy Resilience": 40,
+        "Interoperability": 70
+      },
+      "landing_stations": [
+        {"name": "Lagos Coastal Station", "coords": [6.45, 3.42], "cables": ["MainOne", "Glo-1", "WACS"]}
+      ],
+      "regions": {
+        "Lagos_Metropolis": {
+          "center": [6.45, 3.38],
+          "supports": {"fiber": 0.8, "cellular": 0.2, "satellite": 0.0},
+          "energy_backup": 0.6,
+          "local_modifier": 1.2
+        },
+        "Northern_Savannah": {
+          "center": [12.0, 13.0],
+          "supports": {"fiber": 0.1, "cellular": 0.7, "satellite": 0.2},
+          "energy_backup": 0.3,
+          "local_modifier": 0.6
+        }
+      }
+    },
+    "Ethiopia": {
+      "name": "Ethiopia",
+      "profile": "East African Emerging Market",
+      "baseline_scores": {
+        "Telecommunications Connectivity": 50,
+        "Emergency Communications": 45,
+        "Digital Sovereignty": 65,
+        "Critical Services Continuity": 45,
+        "Cybersecurity": 50,
+        "Data Governance": 55,
+        "Inclusion and Accessibility": 40,
+        "AI and IoT Readiness": 40,
+        "Energy Resilience": 50,
+        "Interoperability": 50
+      },
+      "landing_stations": [
+        {"name": "Djibouti Gateway", "coords": [11.58, 42.70], "cables": ["SEA-ME-WE 5"]}
+      ],
+      "regions": {
+        "Addis_Ababa": {
+          "center": [9.03, 38.74],
+          "supports": {"fiber": 0.6, "cellular": 0.3, "satellite": 0.1},
+          "energy_backup": 0.5,
+          "local_modifier": 1.0
+        },
+        "Oromia_Plains": {
+          "center": [8.0, 37.0],
+          "supports": {"fiber": 0.1, "cellular": 0.6, "satellite": 0.3},
+          "energy_backup": 0.3,
+          "local_modifier": 0.6
+        }
+      }
+    },
+    "Senegal": {
+      "name": "Senegal",
+      "profile": "Atlantic Hub / Moderate Resilience",
+      "baseline_scores": {
+        "Telecommunications Connectivity": 75,
+        "Emergency Communications": 60,
+        "Digital Sovereignty": 60,
+        "Critical Services Continuity": 60,
+        "Cybersecurity": 65,
+        "Data Governance": 60,
+        "Inclusion and Accessibility": 65,
+        "AI and IoT Readiness": 50,
+        "Energy Resilience": 60,
+        "Interoperability": 75
+      },
+      "landing_stations": [
+        {"name": "Dakar Landing Station", "coords": [14.71, -17.43], "cables": ["ACE", "WACS"]}
+      ],
+      "regions": {
+        "Dakar_Urban": {
+          "center": [14.71, -17.44],
+          "supports": {"fiber": 0.8, "cellular": 0.2, "satellite": 0.0},
+          "energy_backup": 0.7,
+          "local_modifier": 1.1
+        },
+        "Casamance_Region": {
+          "center": [12.8, -16.6],
+          "supports": {"fiber": 0.2, "cellular": 0.6, "satellite": 0.2},
+          "energy_backup": 0.4,
+          "local_modifier": 0.7
+        }
+      }
+    }
+  }
+}

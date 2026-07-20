@@ -1,0 +1,15 @@
+bin/
+lib/
+etc/
+include/
+__pycache__/
+*.py[cod]
+*.class
+.env
+.streamlit/
+.claude/
+venv/
+.ipynb_checkpoints/
+papers/
+papers.zip
+share/
